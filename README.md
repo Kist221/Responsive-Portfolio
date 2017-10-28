@@ -1,1 +1,2 @@
-# Responsive-Portfolio
+# Responsive-Portfolio Project
+no bootstrap using @media queries
